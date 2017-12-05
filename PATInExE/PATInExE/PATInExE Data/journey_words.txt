@@ -1,0 +1,174 @@
+cancel
+Booking Reference
+re-booking
+Boarding At
+CONFIRMED
+Railway
+schedules
+GENERAL
+Voter’s Id Card
+Fare Details
+transport
+Seat
+Cancelled
+Airport Authority
+stations/trains
+JOURNEY DATE
+Receipt Number
+PNR No
+etickets
+Date Of Boarding
+take-off
+Baggage
+Terminal
+e-Ticket
+passport
+Quota
+showtime
+thank
+Free Checked In Baggage Allowance
+Voter Identity Card
+destination
+IndiGo Transaction Id
+General
+delayed
+passenger
+Class
+Reservation Slip’
+e-ticket
+Numeric Booking ID
+Male
+bag
+Via
+Coach/Seat
+Boarding
+Check Your Flight Timings
+details
+CONFIRM
+passengers
+Payment Status
+arriving
+delays
+WL No
+scheduled
+Status
+COACH NO/ SEAT NO
+PNR
+printout/VRM
+Regular Fare Sector
+Confirmation No
+Airfare Charges
+Booking Fees
+Identity Card
+Total Amount
+TATKAL
+E-Ticket
+charges
+Terminal Information
+tickets
+THIRD AC
+confirmation
+Arrives
+reschedule
+Price
+receipt
+rail
+For CHANGE OF BOARDING STATION
+Coach
+AMOUNT PAID
+CHAIR CAR
+PAYMENT STATUS
+change/cancellation
+revised/cancelled
+Train No
+SL
+Train Name
+Gender
+Travel Insurance Premium
+baggage
+Credit/Debit
+charts
+on-board
+Departs
+Dep Terminal
+Confirmation
+Booking ID
+WL
+IRCTC
+check-in
+international
+Driving License
+Total Fare
+Base Fare
+flight
+Distance
+departs
+confirmed
+Railway Refund Rules
+booking
+cancellation
+Passenger Name
+Time
+fares
+Flight Delays Reschedule
+cancelled
+Seat/Berth
+ticket
+chart
+luggage
+station
+aircraft
+Sex
+refund
+CANCELLATION OF E-TICKETS
+Domestic
+terminals
+Cancellation
+e-Tickets
+Booking
+Reservation Upto
+Passenger Details
+Payment Received
+charting
+Photo ID
+TRAIN No
+Journey
+boarding
+Tickets
+departure
+terminal
+booked
+Station
+Scheduled Departure
+delay
+Booking Date
+Passengers
+Airport Counters
+Check-in Baggage
+travelling
+train
+Refund
+Cancellation/Revision Policy
+reservation
+Transaction ID
+Booked Date Time
+Flight
+Age
+Ticket Details
+RESTRICTIONS ON CARRIAGE
+Boarding Point
+Base Price
+PREMIUM TATKAL
+Railways
+flights
+Transaction Id
+Ticket Confirmation
+Passport
+SLEEPER CLASS
+PNR Number
+TICKET AMOUNT
+Name
+Ticket Fare
+Ticket
+Train Name/No
+Internet Ticketing

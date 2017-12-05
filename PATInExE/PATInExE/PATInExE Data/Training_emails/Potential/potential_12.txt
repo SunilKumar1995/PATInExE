@@ -1,0 +1,45 @@
+This is a system generated email. Please do not reply to this email ID. If	you have a query or need any clarification you may contact us using any of the communication medium described below: 
+(1) Call our 24-hour Customer Care at 1323 or 
+(2) SMS MEAL to 139 or
+(3) Email Us customercare.ecatering@irctc.com 
+Order Confirmation
+Dear ANIMESH ROY,
+
+     We thank you for using IRCTC online eCatering facility. Your COD Meal has been successfully booked and the Order Details are indicated below.
+
+An SMS containing OTP (one time password) has been sent to your mobile number, provided while ordering the Meal. Please show the OTP to the Meal Delivery Staff on stations for verification purpose.
+OTP : H0U8 (Please provide the OTP to delivery person at the time of delivery of meal)
+
+Order details:
+ORDER No	000000767925	PNR No	6262472755
+MOBILE No	8750644976	TRAIN No	12409
+JOURNEY DATE	11-Mar-2017	ORDER DATE	11-Mar-2017 05:37
+PAYMENT STATUS	Cash on Delivery	COACH NO/ SEAT NO	S3/56
+
+Order Item Details For:BHOPAL JN (BPL) and Delivery Date is 11-Mar-2017 19:50
+
+S#	Vendor	Item	Price	Quantity	Total Amount
+1	Bhopal Pure Veg	Veg Biryani with Raita	111.0	1	111.0
+Delivey Charges for Bhopal Pure Veg at BHOPAL JN (BPL)	 0.0
+Total Fare	111.0
+
+
+Grand Total In Rs.(Inclusive of all taxes)	111.0
+
+Cancellation/Revision Policy 
+
+1.	Prior to 02 hours of delivery, order can be revised/cancelled. No cancellation charges would be levied. 
+2.	Amendment in the order is subject to minimum order value of the vendor. 
+3.	Cancellations are not allowed at face to face with the person at the time of delivery. 
+4.	No Cancellation/Revision/ Refund is permitted within 2 hours of delivery time. 
+5.	Refund is not applicable for cash on delivery (COD) orders. 
+6.	Complaint can be registered within 15 days from the delivery date. No complaints would be entertained after 15 days of the delivery date. 
+
+Information
+
+All disputes are subject to the jurisdiction of the Delhi Courts.
+
+Warm Regards,
+Customer Care
+eCatering
+IRCTC

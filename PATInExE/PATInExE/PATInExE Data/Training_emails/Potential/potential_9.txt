@@ -1,0 +1,59 @@
+
+Transaction ID :	100000776111992	PNR No. :	2657489741	Train No. & Name :	12808 / SAMTA EXPRESS
+Date of Booking :	15-Mar-2017	Class :	SLEEPER CLASS	Quota :	TATKAL
+Date of Journey :	16-Mar-2017	From :	NZM	To :	R
+Boarding At :	NZM	Date Of Boarding :	16-Mar-2017	Reservation Upto :	R
+Scheduled Departure :	08:35 Hrs	Insurance (No. of Psng) :	1		
+
+Passenger Details
+Sl. No.	Name	Age	Gender	Status	Coach	Seat / Berth / WL No
+1	ANIMESH	23	Male	CNF	S2 	71 
+
+Fare Details
+Distance :	1383 KM
+Ticket Fare :	Rs. 755.00
+Service Charge :	Rs. 0.00
+Travel Insurance Premium (Inclusive of Service Tax) :	Rs. 0.00
+Total Fare :	Rs. 755.00 *
+* Payment Gateway charges as applicable.
+For cancellation of your ticket, please log in to your account, select the PNR you wish to cancel and cancel your ticket online. Cancellation of your e-Ticket is possible only on the website www.irctc.co.in, and is NOT possible on PRS Counters.
+
+You can cancel any of the passenger names from the list of passengers on this ticket without affecting the ticket as a whole.
+
+This ticket is booked on a personal user ID and can not be sold by an agent. If bought from an agent by any individual, it is at his/her own risk
+
+CANCELLATION OF E-TICKETS
+
+(1) E-Ticket can be cancelled online till preparation of charts (which is normally 4 to 6 hours before the scheduled departure of the train from the originating stations. (For trains starting up to 12 noon the chart preparation is usually done on the previous night)) OR 4 hours before the scheduled departure of boarding the train in case of confirmed ticket OR 30 minutes before the scheduled departure of boarding the train in case of RAC/WL whichever is earlier. If by any reason you are unable to cancel your ticket on the website till the time of charting please mail to etickets@irctc.co.in. User can check their refund status online by clicking "Refund Status" link after logging in. All refund will be processed as per extent Railway Refund Rules. Please refer refund rules here.
+
+(2) After preparation of charts, the user shall have to file online TDR for claiming refund. IRCTC forward the case to concerned Zonal Railway on the basis of Customer request through EDR and Enhance coaching refund system. The refund case will be decided by Railways. The TDR can be filed by the same user who books the ticket. After receipt of the refund amount from Railway, it shall be credited only in the same account through which booking was made through opted payment gateway. If by any reason you are unable to file TDR through website please mail to etickets@irctc.co.in. User can check TDR/Refund status through TDR History. All refund will be process as per extent Railway Refund Rules. Please refer refund rules here.
+
+(3) Any refund amount will be credited only in the same account through booking was made by user. Customer is advised not to close that account so that refund amount will be credited back.
+
+For CHANGE OF BOARDING STATION & CHANGE IN NAME customer can now approach the nearest Railway Reservation Office with Electronic Reservation Slip print out and photo identity proof mentioned in the Electronic Reservation Slip at least 24 hours before the scheduled departure of train as per existing Railway rules.
+
+Once you have cancelled your ticket, the fresh details and changes made by you will be available on the Cancelled e-Tickets History (as a link to site). The refund amount due to you after cancellation will be credited back to the same account which you had used for booking the ticket.
+
+Passengers are advised not to carry inflammable/dangerous/explosive articles as part of their luggage and also to desist from smoking in the trains.
+
+For any further assistance, please contact us at 24*7 Hrs.
+Customer Support at 011-39340000 or mail us at care@irctc.co.in.
+
+Just dial 139 from your landline, mobile & CDMA phones for railway enquiries.
+
+To book and get food delivered on your train berth, please call IRCTC Toll free No. 1323 or log in at www.ecatering.irctc.co.in
+
+To book Budget Hotels, call IRCTC OYO Hotels on 9313223344 now or Click here to book
+
+******************************** Information *************************************
+
+For any enquiries or information regarding your transaction with IRCTC, do not provide your credit/debit card details by any means to IRCTC. All your queries can be replied on the basis of 15 digit IRCTC Transaction id/ 10 digit PNR no./ User id. IRCTC does not store the credit/ debit card information in any form during the transaction.
+
+**********************************************************************************
+
+
+
+Warm Regards,
+Customer Care
+Internet Ticketing
+IRCTC
